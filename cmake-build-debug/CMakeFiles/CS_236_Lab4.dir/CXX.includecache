@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/samuelbennion/CLionProjects/CS_236_Lab4/Automaton.h
+iostream
+-
+Token.h
+/Users/samuelbennion/CLionProjects/CS_236_Lab4/Token.h
+
+/Users/samuelbennion/CLionProjects/CS_236_Lab4/Token.h
+iostream
+-
+
+/Users/samuelbennion/CLionProjects/CS_236_Lab4/UndefinedCommentAutoma.cpp
+UndefinedCommentAutoma.h
+/Users/samuelbennion/CLionProjects/CS_236_Lab4/UndefinedCommentAutoma.h
+
+/Users/samuelbennion/CLionProjects/CS_236_Lab4/UndefinedCommentAutoma.h
+Automaton.h
+/Users/samuelbennion/CLionProjects/CS_236_Lab4/Automaton.h
+
